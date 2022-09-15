@@ -15,7 +15,7 @@ Berikutnya, fungsi yang ada di 'views.py' akan melakukan pemrosesan seperti:
 # _Virtual Environment_
 Saat menginstal modul/library menggunakan pip, modulnya akan terinstal secara global di /usr/lib/python2.7/site-packages. Dimana, semua aplikasi bisa mengakses dan menggunakannya.
 
-Pembuatan aplikasi berbasis django bisa saja dilakukan tanpa _virtual environment_. Namun, hal ini memiliki masalah dimana, jika kita membuat proyek dengan menggunakan django 1.1. Pada awalnya, aplikasi dapat berjalan sempurna. Namun, dikemudian hari ketika django merilis versi terbaru seperti versi 4.0. Kita akan melakukan _upgrade_ modul. Maka, aplikasi kita tadi sudah tidak relevan lagi karena ada perubahan fungsi dan lain-lain. Oleh karena itu, penggunaan _virtual environment_dibutuhkan agar masing-masing aplikasi memiliki modulnya sendiri
+Pembuatan aplikasi berbasis django bisa saja dilakukan tanpa _virtual environment_. Namun, hal ini memiliki masalah dimana, jika kita membuat proyek dengan menggunakan django 1.1. Pada awalnya, aplikasi dapat berjalan sempurna. Namun, dikemudian hari ketika django merilis versi terbaru seperti versi 4.0. Kita akan melakukan _upgrade_ modul. Maka, aplikasi kita tadi sudah tidak relevan lagi karena ada perubahan fungsi dan lain-lain. Oleh karena itu, penggunaan _virtual environment_ dibutuhkan agar masing-masing aplikasi memiliki modulnya sendiri
 
 # Pengimplementasian Tugas 2
 1. Buka views.py yang ada pada folder katalog dan buatlah sebuah fungsi yang menerima _parameter request_ dan mengembalikan render(request, "katalog.html")
