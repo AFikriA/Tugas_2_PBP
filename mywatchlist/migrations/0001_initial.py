@@ -19,7 +19,7 @@ class Migration(migrations.Migration):
                 ('title', models.TextField()),
                 ('rating', models.IntegerField()),
                 ('release_date', models.TextField()),
-                ('review', models.CharField(max_length=255)),
+                ('review', models.CharField(max_length=600)),
             ],
         ),
     ]
