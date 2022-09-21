@@ -20,3 +20,7 @@
 - Membuat fungsi show_xml dan show_json
 - Lalu tambahkan path nya di urls.py
 - Push ke git, lalu deploy ke heroku
+# Screenshoot dari postman
+![Screenshot (407)](https://user-images.githubusercontent.com/112608674/191567896-5bbd2f9c-0855-4b1a-8e5d-37c7f53fd34d.png)
+![Screenshot (408)](https://user-images.githubusercontent.com/112608674/191567910-d4760f9b-3f16-42a7-93dc-dac4ffeb736b.png)
+![Screenshot (409)](https://user-images.githubusercontent.com/112608674/191567927-7796f22f-b94d-4679-9f50-4a9d475e9e89.png)
