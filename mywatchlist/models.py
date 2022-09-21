@@ -6,4 +6,4 @@ class WatchlistItem(models.Model):
     title = models.TextField()
     rating = models.IntegerField()
     release_date = models.TextField()
-    review = models.CharField(max_length=600)
+    review = models.CharField(max_length=255)
