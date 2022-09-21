@@ -1,0 +1,112 @@
+[
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched": "Belum",
+            "title": "Miracle in Cell No.7",
+            "rating": 8,
+            "release_date": "8 September 2022",
+            "review": "Miracle in Cell No.7 secara tepat berhasil memberikan tontonan yang menggugah hati penonton sekaligus menampilkan kesedihan yang menyentuh hati sehingga siapapun yang menyaksikan film ini pasti akan berderai air mata."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 2,
+        "fields": {
+            "watched": "Udah",
+            "title": "Mencuri Raden Saleh",
+            "rating": 9,
+            "release_date": "25 Agustus 2022",
+            "review": "Mencuri Raden Saleh bukan hanya sebuah film yang akan menyuguhkan bagaimana sekelompok pemuda melakukan aksi heist saja, namun juga bagaimana para karakter berkembang dan berinteraksi sehingga menciptakan konflik dan membuat cerita semakin kaya. Mencuri Raden Saleh memberikan tontonan yang hangat antar hubungan persahabatan dan persaudaraan, serta bagaimana semangat pemuda untuk memperjuangkan apa yang mereka anggap benar dengan segala masalah yang mesti mereka hadapi. "
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 3,
+        "fields": {
+            "watched": "Udah",
+            "title": "The Batman",
+            "rating": 7,
+            "release_date": "2 Maret 2022",
+            "review": "The Batman lebih berfokus pada kisah manusianya daripada kisah tentang heroisme, yang membawa kita menyelami lebih jauh dan dalam tentang krisis eksistensial Batman. Lalu menempatkan Batman di persimpangan jalan dalam perjalanan sebagai Caped Crusader, di mana perannya sebagai pelindung Gotham masih jauh dari bayangannya."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 4,
+        "fields": {
+            "watched": "Belum",
+            "title": "Pengabdi Setan 2: Communion",
+            "rating": 7,
+            "release_date": "4 Agustus 2022",
+            "review": "Pengabdi Setan 2 menjadi bukti bahwa film horor bila digarap dengan serius dari semua sisi bisa menjadi suatu karya indah yang harus dikenang sepanjang masa. Pengabdi Setan 2: Communion adalah cara Joko Anwar menunjukkan keseriusannya membuktikan bahwa Indonesia memiliki kepustakaan horor yang luar biasa besar dan memiliki potensi untuk menjadi kekuatan bangsa ini."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 5,
+        "fields": {
+            "watched": "Udah",
+            "title": "Uncharted",
+            "rating": 6,
+            "release_date": "16 Februari 2022",
+            "review": "Uncharted memang tidak menawarkan sesuatu yang baru, tapi tetap menjadi film aksi petualangan yang menghibur berkat chemistry pemainnya. Akan tetapi bagi para penggemar gamenya, Uncharted merupakan film yang mungkin telah “mengkhianati” rasa orisinalitas dari gamenya."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 6,
+        "fields": {
+            "watched": "Udah",
+            "title": "KKN di Desa Penari",
+            "rating": 7,
+            "release_date": "30 April 2022",
+            "review": "Akhir kata, KKN di Desa Penari adalah film yang sarat akan pesan moral dan ajaran tata krama yang kental. Meski dengan cerita yang sudah tidak asing, KKN di Desa Penari berhasil memvisualisasikan sebagian besar cerita viral yang hanya terhenti di imajinasi para pembacanya ini dengan baik. Akting para pemain, sinematografi yang cakap, dan musik latar belakang yang pas, dapat menutupi sebagian kecil kekurangan yang ada."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 7,
+        "fields": {
+            "watched": "Udah",
+            "title": "Ngeri-Ngeri Sedap",
+            "rating": 8,
+            "release_date": "2 Juni 2022",
+            "review": "Drama keluarga berbudaya Batak ini ternyata akan relate dengan berbagai masalah keluarga lainnya, apalagi yang berkaitan dengan perantauan. Ngeri-Ngeri Sedap membawa budaya Batak dengan segala kebiasaan di dalamnya yang mungkin juga sudah menjadi rahasia umum. Cerita sederhana tersaji cukup ringan dengan penyelesaian luar biasa. Mengundang tawa, tangis, rindu, dan setiap adegan mengajak emosi kita terlibat saat menyaksikannya. Sajian lengkap disertai komedi menambah kehangatan keluarga dari hubungan orangtua dan keempat anaknya."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 8,
+        "fields": {
+            "watched": "Belum",
+            "title": "Top Gun: Maverick",
+            "rating": 8,
+            "release_date": "27 Mei 2022",
+            "review": "Top Gun: Maverick berhasil memadukan nostalgia dengan aksi kecepatan penuh, Maverick menghadirkan kembali cerita aslinya dengan intens dan menjalinnya menjadi suatu kisah baru yang koheren. Dan Maverick seperti karakter utamanya berhasil menghidupkan kembali kejayaan masa lalu sambil mempersiapkan kebangkitan generasi penerusnya."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 9,
+        "fields": {
+            "watched": "Udah",
+            "title": "Thor: Love and Thunder",
+            "rating": 7,
+            "release_date": "6 Juli 2022",
+            "review": "Taika Waititi membawa Thor: Love and Thunder ke dalam gaya rom-com ditambah dengan aksi-aksi berdaya pikat tinggi. Sayangnya kedalaman emosional tentang Thor yang kehilangan dan kesepian atau tentang Jane Foster yang sedang sekarat tidak mendapatkan perhatian sepenuhnya. Ini adalah film yang penuh hingar bingar tanpa bisa menyentuh emosi yang menontonnya."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 10,
+        "fields": {
+            "watched": "Udah",
+            "title": "Minions: The Rise of Gru",
+            "rating": 7,
+            "release_date": "28 Juni 2022",
+            "review": "Gru yang sudah memiliki otak penjahat sejak kecil, memancing para minion untuk membantunya. Petualangan Kevin, Bob, dan Stuart selalu mengundang tawa yang membuat kita geleng-geleng kepala. Aksi tak karuan mereka tak selalu berujung sial, beberapa hal gila yang akhirnya berhasil makin menghibur kita. Dengan sedikit plot twist tipis, cerita Gru dan Minion menghadapi Vicious 6, menjadi prekuel ‘Despicable Me’ yang begitu sempurna diiringi gelak tawa dari para minion yang menggemaskan."
+        }
+    }
+]
