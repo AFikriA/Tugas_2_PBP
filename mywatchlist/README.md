@@ -9,19 +9,26 @@
 Karena nantinya dalam proses pengimplementasian sebuah platform, akan butuh mengirimkan data dari satu stack ke stack lainnya. Data tersebut bisa berbentuk macam-macam seperti HTML,XML atau JSON.
 
 # Jelaskan bagaimana cara kamu mengimplementasikan checklist di atas.
-- Membuat aplikasi baru bernama mywatchlist
-- Menambahkan mywatchlist ke settings.py
-- Menulis kode untuk models.py yang diisi dengan judul dari tabel
-- Melakukan migrate
-- Membuat berkas initial_mywatchlist_data.json yang diisi dengan data-data yang sesuai dengan model
-- Selanjutnya, loaddata initial_mywatchlist_data.json
-- Membuat fungsi di views.py
-- Menulis kode untuk diimplementasikan di HTML
-- Menambahkan path untuk mywatchlist di urls.py
-- Melakukan import HttpResponse dan serializers
-- Membuat fungsi show_xml dan show_json
-- Lalu tambahkan path nya di urls.py
-- Push ke git, lalu deploy ke heroku
+- Membuat suatu aplikasi baru bernama mywatchlist di proyek Django Tugas 2 pekan lalu:
+  - Membuat aplikasi baru bernama mywatchlist
+  - Menambahkan mywatchlist ke settings.py
+- Menambahkan path mywatchlist sehingga pengguna dapat mengakses http://localhost:8000/mywatchlist
+  - Menambahkan path untuk mywatchlist di urls.py
+- Membuat sebuah model MyWatchList yang memiliki atribut sebagai berikut:
+  - Menulis kode untuk models.py yang diisi dengan judul dari tabel
+  - Melakukan migrate
+- Menambahkan minimal 10 data untuk objek MyWatchList yang sudah dibuat di atas:
+  - Membuat berkas initial_mywatchlist_data.json yang diisi dengan data-data yang sesuai dengan model
+  - Selanjutnya, loaddata initial_mywatchlist_data.json
+- Mengimplementasikan sebuah fitur untuk menyajikan data yang telah dibuat sebelumnya dalam tiga format:
+  - Membuat fungsi di views.py
+  - Menulis kode untuk diimplementasikan di HTML
+  - Melakukan import HttpResponse dan serializers
+  - Membuat fungsi show_xml dan show_json
+- Membuat routing sehingga data di atas dapat diakses melalui URL:
+  - Lalu tambahkan path nya di urls.py
+- Melakukan deployment ke Heroku terhadap aplikasi yang sudah kamu buat sehingga nantinya dapat diakses oleh teman-temanmu melalui Internet:
+  - Lalu deploy ke heroku tapi jangan lupa untuk menambahkan json yang baru di procfile
 
 # Screenshoot dari postman
 ![Screenshot (407)](https://user-images.githubusercontent.com/112608674/191567896-5bbd2f9c-0855-4b1a-8e5d-37c7f53fd34d.png)
