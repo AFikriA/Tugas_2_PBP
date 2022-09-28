@@ -1,5 +1,5 @@
 # Link Heroku Tugas 2
-https://webkatalogtugas2.herokuapp.com/katalog/
+https://webtugaspbp.herokuapp.com/katalog
 
 # Bagan _request client_ ke _web_
 
