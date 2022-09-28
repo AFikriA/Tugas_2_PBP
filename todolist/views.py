@@ -72,3 +72,17 @@ def create_task(request):
 
     context = {'form':form}
     return render(request, 'create-task.html', context)
+
+def delete(request, id):
+    data = Task.objects.get(id=id)
+    data.delete()
+    return redirect('todolist:show_todolist')
+
+def done(request, id):
+    data = Task.objects.get(id=id)
+    if data.done == False:
+        data.done = True
+    else:
+        data.done = False
+    data.save()
+    return redirect('todolist:show_todolist')
