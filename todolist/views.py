@@ -17,7 +17,7 @@ from todolist.form import TaskForm
 
 @login_required(login_url='/todolist/login/')
 def show_todolist(request):
-    data_todolist = Task.objects.all()
+    data_todolist = Task.objects.filter(user=request.user)
     context = {
         'list_data': data_todolist,
         'nama': 'Aulia Fikri Al Khawariz',
