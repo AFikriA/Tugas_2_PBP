@@ -25,7 +25,7 @@ Eksternal CSS adalah kode CSS yang ditulis terpisah dengan kode HTML Eksternal C
 Kelebihan dan kekurangan:
 - Ukuran file HTML akan menjadi lebih kecil dan struktur dari kode HTML jadi lebih rapi.
 - Loading website menjadi lebih cepat
-- File CSS dapat digunakan di beberapa halaman website sekaligus. Kekurangan:
+- File CSS dapat digunakan di beberapa halaman website sekaligus.
 - Halaman akan menjadi berantakan, ketika file CSS gagal dipanggil oleh file HTML.
   
 ##  Jelaskan tag HTML5 yang kamu ketahui.
